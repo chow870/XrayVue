@@ -1,4 +1,4 @@
-# 🩺 ML Tuberculosis Detection using Deep Learning (React + FastAPI)
+# 🩺 ML Tuberculosis+Bone Fracture Detection using Deep Learning (React + FastAPI)
 
 This project is a **Tuberculosis (TB) detection system** built using a **Vite + React frontend** and **FastAPI backend**. It allows users to upload **chest X-ray images**, processes them using a **CNN model**, and generates a **detailed PDF report** with:
 - **Prediction Results**
