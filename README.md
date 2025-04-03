@@ -28,12 +28,10 @@ cd server
 python -m venv venv          # Create a virtual environment
 venv\Scripts\activate        # Activate it (Windows PowerShell)
 pip install -r requirements.txt  # Install dependencies
-uvicorn main:app --reload     # Start FastAPI server
 
 For Linux/macOS:
 source venv/bin/activate
 pip install -r requirements.txt
-uvicorn main:app --reload
 
 3️ Set Up the Frontend (Vite + React)
 cd ../client
